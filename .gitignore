@@ -1,0 +1,14 @@
+dest/
+dist/
+build/
+tmp/
+venv/
+dvisual.egg-info/
+run/
+__pycache__/
+.cache/
+.eggs/
+*.swp
+*.swo
+*.log
+*.pyc
