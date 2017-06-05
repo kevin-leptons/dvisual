@@ -1,7 +1,7 @@
 DVISUAL
 =======
 
-Personal data visualization.
+Data visualization tools.
 
 Kevin Leptons <kevin.leptons@gmail.com> <br>
 CC by 4.0 License <br>
