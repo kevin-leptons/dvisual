@@ -13,6 +13,8 @@ FEATURES
 - Quick access to Python data visualization APIs
 - Pygal library
 
+![screenshot](asset/screenshot.png)
+
 USAGE
 =====
 
@@ -29,7 +31,8 @@ cd dvisual
 . venv/bin/active
 ./env install
 
-# run various data visualization in 'dvisual'
+# show various data visualization in 'dvisual' directory
+# it displays svg file in default browser
 python dvisual/linux-io-model.py
 ```
 
